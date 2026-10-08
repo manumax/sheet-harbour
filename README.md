@@ -19,7 +19,7 @@ SheetHarbour should make a character sheet feel like a durable, shared tabletop 
 
 ## Domain language
 
-The canonical terms and their meanings are maintained in [GLOSSARY.md](GLOSSARY.md). In particular, use **Table** rather than “game container”, “campaign”, or “session” for the SheetHarbour container. A Table is not the same thing as an RPG or game system:
+The canonical terms and their meanings are defined here. In particular, use **Table** rather than “game container”, “campaign”, or “session” for the SheetHarbour container. A Table is not the same thing as an RPG or game system:
 
 - An **RPG/game system** is the ruleset or game for which a sheet may be designed.
 - A **Table** is one persistent SheetHarbour instance for a tabletop group and its play. It brings together a GM, Player Slots, and that group's Character Sheets.
