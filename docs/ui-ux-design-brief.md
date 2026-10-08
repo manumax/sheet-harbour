@@ -39,19 +39,7 @@ The initial use case is Sheet from Beyond. The GM configures a stable HTTPS Shee
 
 ## 3. Terminology
 
-Use these terms consistently. The [root GLOSSARY.md](../GLOSSARY.md) is the canonical terminology reference.
-
-| Term | Meaning and usage |
-| --- | --- |
-| **Table** | One RPG/game context. Use this instead of “game,” “campaign,” “room,” or “container” in user-facing copy. |
-| **Sheet Template** | The structured, versioned definition used by a Table’s Character Sheets. |
-| **GM** | The person who creates and manages a Table. Prefer “GM” over “game master” in compact UI labels. |
-| **GM Link** | The durable link the GM uses to manage a Table. Treat it as private to the GM. |
-| **Player Slot** | An access slot created by the GM for a player. |
-| **Player Link** | The durable link copied by the GM and used by a player to access that Player Slot. |
-| **Character Sheet** | One player-created sheet within a Table. A Player Link can be used to create multiple sheets. |
-| **Character Name** | The required name entered when creating a Character Sheet. |
-| **Sheet from Beyond** | The initial one-way entry context. Keep this as a product name, not a generic synonym for the sheet. |
+Use the [root GLOSSARY.md](../GLOSSARY.md) as the canonical terminology reference. In this brief, use “GM” rather than “game master” in compact UI labels, keep “Sheet from Beyond” as a product name, and preserve the glossary’s avoid terms in user-facing copy.
 
 ## 4. Visual direction to explore
 
