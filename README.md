@@ -1,10 +1,10 @@
 # SheetHarbour
 
-SheetHarbour is an external persistent character-sheet service, initially for trusted tabletop RPG groups using Sheet from Beyond.
+SheetHarbour is an open-source web application and Owlbear Rodeo extension for persistent tabletop RPG character sheets.
 
 ## Idea
 
-A game master creates a Table for a supported roleplaying game and receives a durable GM Link. The GM can add Player Slots and retrieve each slot's durable Player Link. Players use their Player Link to access their Character Sheets from different browsers or computers without relying on browser-local storage.
+A game master creates a game container for a supported roleplaying game and receives a durable GM URL. The GM can add players and retrieve each player's durable URL. Players use their URL with the Owlbear Rodeo extension to access their character sheets from different browsers or computers without relying on browser-local storage.
 
 A player can create, update, and delete one or more character sheets for the game. Changes are persisted to the web application automatically, using debounced save-on-change writes so that players do not need to remember to click Save and frequent edits are batched.
 
@@ -31,4 +31,4 @@ The initial investigation will compare:
 2. architecture and data-model options for versioned structured sheets;
 3. hosting, storage, email, cleanup, and scaling costs for a small pilot and approximately 100 or 1,000 game sessions per month.
 
-The sheet-template format and deployment choices are provisional and open to review.
+The product name, terminology for the game container, sheet-template format, and deployment choices are provisional and open to review.
